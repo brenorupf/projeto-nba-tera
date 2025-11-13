@@ -2,29 +2,25 @@
 
 ---
 
-## 🧠 Descrição Geral
-
-Este projeto foi desenvolvido como parte do curso **Data Science & Machine Learning (Tera)** e tem como objetivo aplicar técnicas de **análise de dados** e **machine learning** para entender o que a franquia **Sacramento Kings** precisa melhorar para voltar a disputar os **Playoffs da NBA**, após um longo período sem classificações.
-
-O estudo combina **análise estatística**, **modelagem preditiva** e **storytelling esportivo**, unindo a paixão pelo basquete à ciência de dados.
+Este projeto foi desenvolvido durante o curso de **Data Science & Machine Learning da Tera** (2º semestre de 2022) em conjunto com os colegas Caio Rodrigues, Miguel Rocha e Vitor Soier. 
 
 ---
 
 ## 🎯 Objetivos do Projeto
 
-- Identificar os fatores técnicos de jogo que mais influenciam a classificação de uma equipe aos playoffs.  
-- Aplicar modelos de machine learning para prever se uma equipe tem ou não perfil de playoffs.  
-- Propor insights e recomendações práticas para o **Sacramento Kings**, com base em dados reais.  
-- Criar uma aplicação interativa (via **Streamlit**) que permita simular resultados.
+ Treinar e simular todo o ciclo de um projeto na vida real:
+
+- Definir a estrutura (contexto, problema de negócio, impacto e desenho da solução);
+- Trabalhar com os dados (fazer web scraping, análise exploratória e modelagem);
+- Criar a interface;
+- Pensar os próximos passos;
+- Apresentar para os experts da Tera, alunos e facilitadores no Demoday.
 
 ---
 
 ## 📊 Contexto
 
-A **NBA (National Basketball Association)** é a principal liga de basquete do mundo, composta por 30 franquias (29 nos EUA e 1 no Canadá).  
-A participação nos **playoffs** é não apenas um marco esportivo, mas também **financeiro**, pois aumenta receitas de ingressos, patrocínios e valorização de marca.
-
-O **Sacramento Kings** é a franquia há mais tempo fora dos playoffs (desde 2006), e o desafio proposto foi descobrir **o que tecnicamente o time precisa melhorar** para quebrar esse jejum histórico.
+O Sacramento Kings é uma das 30 franquias associadas à NBA, situada na cidade de Sacramento, na Califórnia, e pertence à conferência oeste. Seu último (e único) título foi em 1951 (das equipes campeãs da NBA, é a que possui o maior jejum). Na época em que fizemos o projeto, dentre todas as equipes, é a que **estava há mais tempo fora da disputa dos playoffs** (desde a temporada 2005/2006, ou seja, havia 16 anos). Sendo até então, o maior período de uma franquia fora dos playoffs em toda a história da NBA, superando o Los Angeles Clippers que ficou de fora dos playoffs entre as temporadas 1977 a 1991 (14 anos).
 
 ---
 
