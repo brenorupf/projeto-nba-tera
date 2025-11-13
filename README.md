@@ -4,7 +4,9 @@
 
 Este projeto foi desenvolvido durante o curso de **Data Science & Machine Learning da Tera** (2º semestre de 2022) em conjunto com os colegas Caio Rodrigues, Miguel Rocha e Vitor Soier. 
 
-Artigo com análise completa: https://medium.com/@brenorupf/o-que-a-franquia-sacramento-kings-precisa-fazer-para-voltar-aos-playoffs-9f041f3bb581 
+📄 **Artigo completo no Medium:**  
+[O que a franquia Sacramento Kings precisa fazer para voltar aos playoffs?](https://medium.com/@brenorupf/o-que-a-franquia-sacramento-kings-precisa-fazer-para-voltar-aos-playoffs-9f041f3bb581)
+
 ---
 
 ## 🎯 Objetivos do Projeto
